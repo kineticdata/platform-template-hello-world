@@ -1,0 +1,13 @@
+{
+  "name": "Kinetic Platform",
+  "status": "Active",
+  "type": "Kinetic Request CE",
+  "policyRules": [
+
+  ],
+  "properties": {
+    "Proxy Username": "space-integration-user",
+    "Web Server": "https://hello-world.kinops.io",
+    "Space Slug": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Handlers",
+  "description": "Handlers in the system",
+  "type": "Stored",
+  "handlers": [
+
+  ],
+  "policyRules": [
+    "Admins"
+  ],
+  "trees": [
+
+  ]
+}
